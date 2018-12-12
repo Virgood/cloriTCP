@@ -1,7 +1,7 @@
 cloriTCP
 =====
 
-CloriTCP is a kernel-level TCP stack for data plane of Multicore Network Processor(**NPU** for short).
+CloriTCP is a kernel-level TCP stack for data plane of Multicore Network Processor(**NP** for short).
 
 CloriTCP是一套为多核网络处理器数据平面开发的内核态TCP协议栈...
 
